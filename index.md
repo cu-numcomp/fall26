@@ -1,12 +1,13 @@
 # Welcome
 
-Welcome to **Principles of Numerical Computation**, CSCI-5606
+Welcome to **Numerical Computation**, CSCI-3656
 
 :::{admonition} Logistics
-* CSCI-5606 Meeting Time: MWF 10:10-11:00 in DLC 1B20
-  * [Canvas page](https://canvas.colorado.edu/courses/122409)
-* Drop-in hours (ECOT 824): Monday 9-10am, Friday 3-4pm.
-* [Make an appointment](https://app.simplymeet.me/jed/numcomp)) (individual or group)
+* CSCI-3656 Meeting Time: MWF 2:30-3:20pm in ECCR 1B51
+  * [Canvas page](https://canvas.colorado.edu/courses/138121)
+* Drop-in hours (ECOT 824): TBD
+* [Make an appointment with Jed](https://app.simplymeet.me/jed/numcomp)) (individual or group)
+* TA: Zach Atkins
 :::
 
 :::{admonition} Resources
@@ -31,6 +32,6 @@ Welcome to **Principles of Numerical Computation**, CSCI-5606
   * [Eijkhout (2023), **The Art of HPC**](https://theartofhpc.com/)
     * collection of free books on numerical and scientific computing, plus "carpentry"
 * Papers
-  * [Butler, **Enhancing and undermining intrinsic motivation: The effects of task-involving and ego-involving evaluation on interest and performance**](https://cu-numcomp.github.io/fall25-grad/downloads/Butler-EnhancingAndUnderminingIntrinsicMotivation-1988.pdf)
+  * [Butler, **Enhancing and undermining intrinsic motivation: The effects of task-involving and ego-involving evaluation on interest and performance**](https://cu-numcomp.github.io/fall26/downloads/Butler-EnhancingAndUnderminingIntrinsicMotivation-1988.pdf)
   * [Turk, **Scaling a code in the human dimension**](https://dl.acm.org/doi/10.1145/2484762.2484782) [arXiv](https://arxiv.org/pdf/1301.7064.pdf)
 :::

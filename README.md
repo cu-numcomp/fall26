@@ -1,13 +1,13 @@
-# Principles of Numerical Computation: CSCI-5606
+# Numerical Computation: CSCI-3656
 
-View the [documentation site](https://cu-numcomp.github.io/fall25-grad).
+View the [documentation site](https://cu-numcomp.github.io/fall26).
 
 ## License
 
-* Code: [![BSD-2-Clause][license-badge]][license-link]
-* Words: [![CC-By][cc-badge]][cc-link]
+* Code: [![MIT][license-badge]][license-link]
+* Words: [![CC-BY-SA][cc-badge]][cc-link]
 
-[license-badge]: https://img.shields.io/github/license/cu-numcomp/fall25-grad
+[license-badge]: https://img.shields.io/github/license/cu-numcomp/fall26
 [license-link]: https://opensource.org/licenses/MIT
-[cc-badge]: https://i.creativecommons.org/l/by/4.0/88x31.png
-[cc-link]: https://creativecommons.org/licenses/by/4.0/
+[cc-badge]: https://i.creativecommons.org/l/by-sa/4.0/88x31.png
+[cc-link]: https://creativecommons.org/licenses/by-sa/4.0/

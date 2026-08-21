@@ -2,15 +2,15 @@
 
 ## Logistics
 
-CU Boulder: CSCI 5606 (Fall 2025)
+CU Boulder: CSCI 3656 (Fall 2026)
 
 ### Instructor: [Jed Brown](https://jedbrown.org), [`jed.brown@colorado.edu`](mailto:jed.brown@colorado.edu), ECOT 824
+### TA: Zach Atkins, [`Zach.Atkins@colorado.edu`](mailto:Zach.Atkins@colorado.edu)
 
-
-**Drop-in Hours**: Please complete [this survey](https://www.when2meet.com/?31809722-2SQvf) to give your available times. I'm also always happy to meet by appointment.
+**Drop-in Hours**: Please complete [this survey](https://www.when2meet.com/?38041387-BqJts) to give your available times. I'm also always happy to meet by appointment.
 
 :::{tip}
-Drop-in hours are an important time for asking questions, solving problems, discussion of broader academic and career strategy, and to provide feedback so I can make the class serve your needs and those of people with similar experiences and interests.
+Drop-in hours are an important time for asking questions, solving problems, discussion of broader academic and career strategy, and to provide feedback so we can make the class serve your needs and those of people with similar experiences and interests.
 :::
 
 ## Overview
@@ -51,12 +51,12 @@ Upon completing this course, students will be able to
 
 I'm here to be your partner, not your adversary, and I promise not to waste your time. 
 So I won't grade (score) your work, though I will write feedback and meet with you to reflect and discuss strategy for growth.
-Why? TL;DR: [Evidence](https://cu-numcomp.github.io/fall25-grad/downloads/Butler-EnhancingAndUnderminingIntrinsicMotivation-1988.pdf) shows that scoring undermines the value of writing comments.
+Why? TL;DR: [Evidence](https://cu-numcomp.github.io/fall26/downloads/Butler-EnhancingAndUnderminingIntrinsicMotivation-1988.pdf) shows that scoring undermines the value of writing comments.
 
 ![Butler (1988) Table 1](img/Butler1988-Table1.png)
 
 Some activities and quizzes will be auto-scored. Those are formative assessments for you to check your understanding, not grades to be tallied.
-If you're struggling, your journal should reflect on why, make goals for [adaptive coping](https://cu-numcomp.github.io/fall25-grad/downloads/HenryShorterCharkoudianHeemstraCorwin-FAILFrameworkChallengeResponsesSTEM-2019.pdf), and assess how that worked.
+If you're struggling, your journal should reflect on why, make goals for [adaptive coping](https://cu-numcomp.github.io/fall26/downloads/HenryShorterCharkoudianHeemstraCorwin-FAILFrameworkChallengeResponsesSTEM-2019.pdf), and assess how that worked.
 
 ![Henry et al. (2019) Table 1](img/Henry2019-Table1.png)
 
@@ -117,7 +117,7 @@ I ask that you not use "AI" for any portion of this class. Read on for why.
 
 Struggle in problem-solving is necessary friction. That doesn't mean you shouldn't try to find a different perspective on solving a problem, but if you seek to avoid the friction, you give up learning. Feedback on assignments and responses to student discussion and questions are the most valuable ways that an instructor can assist learning. I don't write an assignment because I need a hundred mediocre implementations of an algorithm, but because that's how I can communicate about each student's understanding. Writing the assignment is thinking, and requires the student to interrogate the self-consistency of their mental model. My feedback is feedback on the student's mental model, as communicated to me via the assignment or classroom comment/question. My goal is to steer the mental model, not to fix the artifact.
 
-When you submit LLM-generated content, it is not a product of a consistent mental model. It's a counterfeit artifact, perhaps tricking me into investing effort providing feedback to a nonexistent mental model. It's a denial of service attack on this human system, and thus a denial of service attack on learning.
+When you submit LLM-generated content, it is not a product of a consistent mental model. It's a counterfeit artifact, perhaps tricking me into investing effort providing feedback on a mirage of a mental model. It's a denial of service attack on this human system, and thus a denial of service attack on your learning.
 
 I could engage in an arms race, seeking to make weird and unique questions that will with high probability trip up LLMs as a way to encourage you not to use them. If you already know the content, that might be fine in a summative assessment, but it's confusing for the process of learning. It'll also require being increasingly obtuse each year. To teach foundational understanding, I need the ability to ask relatively straightforward questions, which means they're likely to be in the training corpus (or close enough). If you circumvent the friction of learning on those simpler questions, you'll be more lost when faced with real-world problems.
 

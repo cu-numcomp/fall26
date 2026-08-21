@@ -1,0 +1,32 @@
+version: 1
+project:
+  title: Principles of Numerical Computation
+  authors:
+    - name: Jed Brown
+  exclude:
+    - VENV/*
+    - README.md
+    - slides.bak/*
+  github: cu-numcomp/fall26
+  thebe:
+    binder:
+      repo: cu-numcomp/fall26
+      provider: github
+      ref: main
+  exports:
+    - format: pdf
+      template: plain_latex_book
+      output: exports/book.pdf
+  toc:
+    - file: index.md
+    - file: syllabus.md
+    - file: tips.md
+    - file: slides.md
+      children:
+        - file: slides/2026-08-21-first-day.ipynb
+site:
+  options:
+    logo: img/cu-numcomp.svg
+    favicon: img/cu-numcomp-square.svg
+    folders: true
+  template: book-theme
