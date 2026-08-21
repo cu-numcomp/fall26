@@ -42,3 +42,5 @@ chapters:
   - file: slides/2025-11-10-transforms.ipynb
   - file: slides/2025-11-12-multigrid.ipynb
   - file: slides/2025-11-17-diffeq.ipynb
+  - file: slides/2025-11-19-stiffness.ipynb
+  - file: slides/2025-11-21-runge-kutta.ipynb
