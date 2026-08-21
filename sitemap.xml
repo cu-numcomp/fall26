@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="http://localhost:3001/sitemap_style.xsl" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://localhost:3001</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3001/syllabus</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3001/tips</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3001/slides</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3001/slides/2025-08-22-first-day</loc>
+  </url>
+</urlset>
