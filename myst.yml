@@ -1,6 +1,6 @@
 version: 1
 project:
-  title: Principles of Numerical Computation
+  title: Numerical Computation
   authors:
     - name: Jed Brown
   exclude:
@@ -24,6 +24,7 @@ project:
     - file: slides.md
       children:
         - file: slides/2026-08-21-first-day.ipynb
+        - file: slides/2026-08-24-functions.ipynb
 site:
   options:
     logo: img/cu-numcomp.svg
