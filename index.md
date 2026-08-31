@@ -5,9 +5,14 @@ Welcome to **Numerical Computation**, CSCI-3656
 :::{admonition} Logistics
 * CSCI-3656 Meeting Time: MWF 2:30-3:20pm in ECCR 1B51
   * [Canvas page](https://canvas.colorado.edu/courses/138121)
-* Drop-in hours (ECOT 824): TBD
+* Drop-in hours (ECOT 824):
+  * **Jed**
+    * Tuesday, 2-3pm in ECOT 824
+  * **Zach**
+    * Tuesday, 11:45-12:45 in ECOT 831
+    * Thursday, 1:00-2:00 and 2:45-3:45 in ECOT 832
 * [Make an appointment with Jed](https://app.simplymeet.me/jed/numcomp)) (individual or group)
-* TA: Zach Atkins
+* TA: Zach Atkins (he/they)
 :::
 
 :::{admonition} Resources

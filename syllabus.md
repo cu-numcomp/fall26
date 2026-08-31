@@ -7,7 +7,15 @@ CU Boulder: CSCI 3656 (Fall 2026)
 ### Instructor: [Jed Brown](https://jedbrown.org), [`jed.brown@colorado.edu`](mailto:jed.brown@colorado.edu), ECOT 824
 ### TA: Zach Atkins, [`Zach.Atkins@colorado.edu`](mailto:Zach.Atkins@colorado.edu)
 
-**Drop-in Hours**: Please complete [this survey](https://www.when2meet.com/?38041387-BqJts) to give your available times. I'm also always happy to meet by appointment.
+### Drop-in Hours
+* **Jed**
+  * Tuesday, 2-3pm in ECOT 824
+* **Zach**
+  * Tuesday, 11:45-12:45 in ECOT 831
+  * Thursday, 1:00-2:00 and 2:45-3:45 in ECOT 832
+
+
+Please complete [this survey](https://www.when2meet.com/?38041387-BqJts) to give your available times. I'm also always happy to meet by appointment.
 
 :::{tip}
 Drop-in hours are an important time for asking questions, solving problems, discussion of broader academic and career strategy, and to provide feedback so we can make the class serve your needs and those of people with similar experiences and interests.
@@ -121,7 +129,7 @@ When you submit LLM-generated content, it is not a product of a consistent menta
 
 I could engage in an arms race, seeking to make weird and unique questions that will with high probability trip up LLMs as a way to encourage you not to use them. If you already know the content, that might be fine in a summative assessment, but it's confusing for the process of learning. It'll also require being increasingly obtuse each year. To teach foundational understanding, I need the ability to ask relatively straightforward questions, which means they're likely to be in the training corpus (or close enough). If you circumvent the friction of learning on those simpler questions, you'll be more lost when faced with real-world problems.
 
-I refuse to police/surveil to ensure that you feel the friction while completing activities. I also refuse to compromise pedagogy by structuring the course around high-stakes in-person anolog summative assessment. I want the class to be about learning more than credentialing, and for that, I need a relationship of mutual trust.
+I refuse to police/surveil to ensure that you feel the friction while completing activities. I also refuse to compromise pedagogy by structuring the course around high-stakes in-person analog summative assessment. I want the class to be about learning more than credentialing, and for that, I need a relationship of mutual trust.
 
 ## Honor Code
 All students enrolled in a University of Colorado Boulder course are responsible for knowing and adhering to the [Honor Code](https://www.colorado.edu/sccr/students/honor-code-and-student-code-conduct). Violations of the Honor Code may include but are not limited to: plagiarism (including use of paper writing services or technology [such as essay bots]), cheating, fabrication, lying, bribery, threat, unauthorized access to academic materials, clicker fraud, submitting the same or similar work in more than one course without permission from all course instructors involved, and aiding academic dishonesty. Understanding the course's syllabus is a vital part of adhering to the Honor Code.

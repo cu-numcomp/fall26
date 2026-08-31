@@ -25,6 +25,9 @@ project:
       children:
         - file: slides/2026-08-21-first-day.ipynb
         - file: slides/2026-08-24-functions.ipynb
+        - file: slides/2026-08-26-conditioning.ipynb
+        - file: slides/2026-08-28-stability.ipynb
+        - file: slides/2026-08-31-rootfinding.ipynb
 site:
   options:
     logo: img/cu-numcomp.svg
