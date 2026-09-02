@@ -28,6 +28,7 @@ project:
         - file: slides/2026-08-26-conditioning.ipynb
         - file: slides/2026-08-28-stability.ipynb
         - file: slides/2026-08-31-rootfinding.ipynb
+        - file: slides/2026-09-02-newton.ipynb
 site:
   options:
     logo: img/cu-numcomp.svg
