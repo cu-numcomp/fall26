@@ -29,6 +29,7 @@ project:
         - file: slides/2026-08-28-stability.ipynb
         - file: slides/2026-08-31-rootfinding.ipynb
         - file: slides/2026-09-04-newton.ipynb
+        - file: slides/2026-09-09-more-newton.ipynb
 site:
   options:
     logo: img/cu-numcomp.svg
