@@ -34,4 +34,10 @@
   <url>
     <loc>http://localhost:3000/slides/2026-09-09-more-newton</loc>
   </url>
+  <url>
+    <loc>http://localhost:3000/slides/2026-09-11-polynomials</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/slides/2026-09-14-linear-algebra</loc>
+  </url>
 </urlset>
