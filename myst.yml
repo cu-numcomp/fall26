@@ -32,6 +32,7 @@ project:
         - file: slides/2026-09-09-more-newton.ipynb
         - file: slides/2026-09-11-polynomials.ipynb
         - file: slides/2026-09-14-linear-algebra.ipynb
+        - file: slides/2026-09-16-projections.ipynb
 site:
   options:
     logo: img/cu-numcomp.svg
