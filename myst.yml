@@ -42,6 +42,7 @@ project:
         - file: slides/2026-10-02-svd.ipynb
         - file: slides/2026-10-05-low-rank.ipynb
         - file: slides/2026-10-07-interpolation.ipynb
+        - file: slides/2026-10-09-interpolation2.ipynb
 site:
   options:
     logo: img/cu-numcomp.svg
