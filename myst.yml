@@ -40,6 +40,8 @@ project:
         - file: slides/2026-09-28-qr-retrospective.ipynb
         - file: slides/2026-09-30-gmres.ipynb
         - file: slides/2026-10-02-svd.ipynb
+        - file: slides/2026-10-05-low-rank.ipynb
+        - file: slides/2026-10-07-interpolation.ipynb
 site:
   options:
     logo: img/cu-numcomp.svg
