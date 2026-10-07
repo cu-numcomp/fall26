@@ -64,4 +64,10 @@
   <url>
     <loc>http://localhost:3000/slides/2026-10-02-svd</loc>
   </url>
+  <url>
+    <loc>http://localhost:3000/slides/2026-10-05-low-rank</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/slides/2026-10-07-interpolation</loc>
+  </url>
 </urlset>
