@@ -44,6 +44,7 @@ project:
         - file: slides/2026-10-07-interpolation.ipynb
         - file: slides/2026-10-09-interpolation2.ipynb
         - file: slides/2026-10-12-splines.ipynb
+        - file: slides/2026-10-14-higher-dimensions.ipynb
 site:
   options:
     logo: img/cu-numcomp.svg
