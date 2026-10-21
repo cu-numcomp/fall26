@@ -82,4 +82,13 @@
   <url>
     <loc>http://localhost:3000/slides/2026-10-16-noisy-data</loc>
   </url>
+  <url>
+    <loc>http://localhost:3000/slides/2026-10-19-regression</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/slides/2026-10-21-beyond-linear-models</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/slides/2026-10-23-gradient-descent</loc>
+  </url>
 </urlset>
