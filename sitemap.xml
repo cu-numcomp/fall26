@@ -91,4 +91,7 @@
   <url>
     <loc>http://localhost:3000/slides/2026-10-23-gradient-descent</loc>
   </url>
+  <url>
+    <loc>http://localhost:3000/slides/2026-10-26-nonlinear-regression</loc>
+  </url>
 </urlset>
