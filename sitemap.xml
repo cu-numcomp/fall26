@@ -94,4 +94,10 @@
   <url>
     <loc>http://localhost:3000/slides/2026-10-26-nonlinear-regression</loc>
   </url>
+  <url>
+    <loc>http://localhost:3000/slides/2026-10-28-differentiation</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/slides/2026-10-30-optimization</loc>
+  </url>
 </urlset>
