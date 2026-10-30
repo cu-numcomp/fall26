@@ -50,6 +50,8 @@ project:
         - file: slides/2026-10-21-beyond-linear-models.ipynb
         - file: slides/2026-10-23-gradient-descent.ipynb
         - file: slides/2026-10-26-nonlinear-regression.ipynb
+        - file: slides/2026-10-28-differentiation.ipynb
+        - file: slides/2026-10-30-optimization.ipynb
 site:
   options:
     logo: img/cu-numcomp.svg
