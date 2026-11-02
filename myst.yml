@@ -52,6 +52,7 @@ project:
         - file: slides/2026-10-26-nonlinear-regression.ipynb
         - file: slides/2026-10-28-differentiation.ipynb
         - file: slides/2026-10-30-optimization.ipynb
+        - file: slides/2026-11-02-integration.ipynb
 site:
   options:
     logo: img/cu-numcomp.svg
