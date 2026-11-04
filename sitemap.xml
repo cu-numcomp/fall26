@@ -103,4 +103,10 @@
   <url>
     <loc>http://localhost:3000/slides/2026-11-02-integration</loc>
   </url>
+  <url>
+    <loc>http://localhost:3000/slides/2026-11-04-quadrature</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/slides/2026-11-09-transforms</loc>
+  </url>
 </urlset>
