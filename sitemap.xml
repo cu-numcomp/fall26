@@ -109,4 +109,7 @@
   <url>
     <loc>http://localhost:3000/slides/2026-11-09-transforms</loc>
   </url>
+  <url>
+    <loc>http://localhost:3000/slides/2026-11-11-multigrid</loc>
+  </url>
 </urlset>
