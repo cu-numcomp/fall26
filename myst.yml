@@ -55,6 +55,7 @@ project:
         - file: slides/2026-11-02-integration.ipynb
         - file: slides/2026-11-04-quadrature.ipynb
         - file: slides/2026-11-09-transforms.ipynb
+        - file: slides/2026-11-11-multigrid.ipynb
 site:
   options:
     logo: img/cu-numcomp.svg
