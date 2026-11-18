@@ -112,4 +112,13 @@
   <url>
     <loc>http://localhost:3000/slides/2026-11-11-multigrid</loc>
   </url>
+  <url>
+    <loc>http://localhost:3000/slides/2026-11-13-diffeq</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/slides/2026-11-16-stiffness</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3000/slides/2026-11-18-runge-kutta</loc>
+  </url>
 </urlset>
